@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 
 /*
@@ -58,7 +59,7 @@ int main (){
 		}else{
 			
 			valorDesc1 = valorTotalPedido * 0.90;
-			printf("Como vc aporveitou nossa promocao de dois prdutos seu valor hoje ficara por %.2f Obrigado, volte sempre!\n", valorDesc1);
+			printf("Como vc aporveitou nossa promocao de um prdutos seu valor hoje ficara por %.2f Obrigado, volte sempre!\n", valorDesc1);
 			
 		}
 
@@ -67,5 +68,6 @@ int main (){
 	}
 	
 	
+	system("pause");
 	return 0;
 }

@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* 
+ Elabore um programa que leia duas notas de um aluno, 
+ calcule e apresente a sua média na tela. 
+ O programa deve possuir uma função que leia e retorne uma nota de 0 a 10. 
+ O programa também deve possuir um procedimento que receba a média e apresente 
+ na tela a situação do aluno (“aprovado”, “em recuperação” ou “reprovado”). 
+ Defina a faixa de valores para cada uma dessas situações.
+
+*/
 int main () {
 	
 	float nota1, nota2, soma, media;

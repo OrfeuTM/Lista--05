@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <conio.h>
 
+/*
+
+Elaborar um programa que apresente como resultado um número positivo, 
+mesmo que a entrada tenha sido feita com um valor negativo. 
+Use um procedimento com passagem de valor por referência.
+
+*/
+
 void funcao(int *num1) {
 	
 	if(*num1 < 0) {

@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <conio.h>
 
+/*
+
+Crie um programa que leia um número de 1 a 12 e imprima o nome do mês correspondente.
+
+
+*/
 void meses(int mes) {
 	
 	int cont;

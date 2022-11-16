@@ -2,8 +2,8 @@
 /* Elaborar uma função (com ou sem retorno) que apresente a mensagem 
  "Este valor é divisível por 2 ou 3".
   Deve ser solicitado pelo programa principal o valor a ser verificado.
-  
-   Caso o valor não atenda à condição desejada, a função deve apresentar a mensagem "Valor inválido". */
+   Caso o valor não atenda à condição desejada, a função deve apresentar a mensagem "Valor inválido".
+*/
 
 int valor;
 
